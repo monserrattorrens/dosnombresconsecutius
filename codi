@@ -1,7 +1,7 @@
 int main {
   int x;
   int y; //y és menor que x
-  if (y == x + 1) {
+  if (y == x - 1) {
     printf("Els nombres són consecutius!");
   }
   else {
